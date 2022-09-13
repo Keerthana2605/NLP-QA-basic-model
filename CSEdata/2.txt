@@ -1,0 +1,10 @@
+Career Scope of Computer Science Engineering 
+CSE is one of the engineering specialisations. However, candidates pursuing this programme have the option of further choosing amongst various other specialisations like telecommunication, web designing, computer hardware and software implementation and maintenance, etc.
+
+These professionals can work as a data scientist, computer programmer, systems analyst, hardware engineer, software developer, system engineer, IT consultant, system designer, networking engineer, web developer, database administrator, mobility tester, programmer, e-commerce specialist, and software tester.
+
+Computer Science Engineering: Eligibility Criteria
+Find below the basic eligibility requirement to pursue a Computer Science Engineering programme at the UG and PG level:
+
+Eligibility requirements for BTech in CSE: Aspirants should have passed the Class 12 exam from a recognized board with Physics, Chemistry, and Mathematics as core subjects. Besides this candidates should also have secured minimum aggregate marks of 60% in the above subjects combined.
+Eligibility requirements for MTech in CSE: Aspirants must have completed a BTech degree in the same specialization with a passing percentage.

@@ -1,0 +1,9 @@
+What Is Computer Science Engineering Work?
+A company’s IT engineers design, install, and maintain its computer systems. Hardware, software, and networking systems are tested, configured, and troubleshooted by them to meet the needs of the employer. In addition to training staff, IT engineers may be required to manage projects as well.
+
+What Do You Learn In Computer Science Engineering?
+Students in Computer Engineering learn how to develop, prototype, and test microchips, circuits, processors, conductors, and any other component used in computer devices or systems (e.g. A computer, a smartphone, a laptop, a server, or an IoT device).
+
+What Is Computer Engineering Exactly?
+A computer engineer designs, creates, and tests computer hardware and software, analyzes its results, and updates outdated equipment so that it can be used with new software in the future. Engineers are also involved in manufacturing and development processes, while others test software more frequently.
+
